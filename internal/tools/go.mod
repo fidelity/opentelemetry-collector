@@ -18,7 +18,7 @@ require (
 	go.opentelemetry.io/build-tools/semconvgen v0.8.0
 	golang.org/x/exp v0.0.0-20230510235704-dd950f8aeaea
 	golang.org/x/tools v0.9.3
-	golang.org/x/vuln v0.1.0
+	golang.org/x/vuln v0.2.0
 )
 
 require (
