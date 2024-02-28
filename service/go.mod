@@ -27,7 +27,7 @@ require (
 	go.opentelemetry.io/collector/receiver v0.89.0
 	go.opentelemetry.io/collector/semconv v0.89.0
 	go.opentelemetry.io/contrib/propagators/b3 v1.20.0
-	go.opentelemetry.io/otel v1.20.0
+	go.opentelemetry.io/otel v1.24.0
 	go.opentelemetry.io/otel/bridge/opencensus v0.43.0
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v0.43.0
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetrichttp v0.43.0
@@ -36,10 +36,10 @@ require (
 	go.opentelemetry.io/otel/exporters/prometheus v0.43.0
 	go.opentelemetry.io/otel/exporters/stdout/stdoutmetric v0.43.0
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.20.0
-	go.opentelemetry.io/otel/metric v1.20.0
+	go.opentelemetry.io/otel/metric v1.24.0
 	go.opentelemetry.io/otel/sdk v1.20.0
 	go.opentelemetry.io/otel/sdk/metric v1.20.0
-	go.opentelemetry.io/otel/trace v1.20.0
+	go.opentelemetry.io/otel/trace v1.24.0
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.26.0
 	gonum.org/v1/gonum v0.14.0
@@ -52,7 +52,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
-	github.com/go-logr/logr v1.3.0 // indirect
+	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
